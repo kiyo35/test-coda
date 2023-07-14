@@ -1,7 +1,7 @@
 <br>
 
-### Welcome !
+### ようこそ !
 
-In this scenario we'll learn how to list all pods in the cluster.
+これはサンプルです。
 
-**HAVE FUN**
+**ゆっくりしていって下さい**
